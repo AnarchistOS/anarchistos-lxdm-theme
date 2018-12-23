@@ -1,0 +1,12 @@
+Source: anarchistos-lxdm-theme
+Section: x11
+Priority: extra
+Maintainer: AreYouLoco? <areyouloco@paranoici.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: http://www.anarchistos.tk
+
+Package: anarchistos-lxdm-theme
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: AnarchistOS LXDM theme.
